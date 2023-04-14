@@ -3,7 +3,7 @@ import os
 import csv
 
 #set path for file
-csvpath = os.path.join("/user/Naomi/downloads/class_activities/PYTHON/Starter_code/Pybank/resources/budget_data.csv")
+csvpath = os.path.join(".../class_activities/PYTHON/Starter_code/Pybank/resources/budget_data.csv")
 
 #declare vales
 total_month = []
